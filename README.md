@@ -14,6 +14,9 @@ Lene Hair Extensions is a premium hair extensions brand that required a fully fu
 - **Canva**: Used to design product images and marketing materials.
 - **Google Analytics**: For monitoring traffic and analyzing customer behavior.
 - **SEO**: Best practices applied to improve the store's search ranking and visibility.
+
+### Website Link:
+[Visit Lene Hair Extensions](https://lenehairextensions.com/)
   
 ## Screenshots
 ![Homepage](homepage.PNG)
