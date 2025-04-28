@@ -16,7 +16,8 @@ Lene Hair Extensions is a premium hair extensions brand that required a fully fu
 - **SEO**: Best practices applied to improve the store's search ranking and visibility.
   
 ## Screenshots
-![Homepage]()  
+![Homepage](homepage.PNG)
+
 ![Products Page](products%20page.PNG)
 
 ## Key Achievements
